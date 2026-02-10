@@ -1,0 +1,9 @@
+path: C:/Users/shell/OneDrive/Desktop/accident_detection/dataset
+
+train: C:/Users/shell/OneDrive/Desktop/accident_detection/dataset/images/train
+val: C:/Users/shell/OneDrive/Desktop/accident_detection/dataset/images/val
+
+
+nc: 1
+names:
+  0: accident
