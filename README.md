@@ -21,14 +21,25 @@ Built with **PyTorch + Ultralytics YOLO**, and designed to be simple, modular an
 
 ## Tech Stack
 
-## Tech Stack
-
 - Python 
 - PyTorch 
 - Ultralytics YOLO 
 - Uvcorn
 - Labelimg
 
+
+---
+
+## DATASET
+
+Image dataset is taken from : https://doi.org/10.34740/kaggle/dsv/1379553
+
+
+## DATA LABELLING 
+
+Train dataset is manually labelled using **Labelimg**.
+
+Validation dataset is also labelled to compute **precision** and **recall**.
 
 ---
 
