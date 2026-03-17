@@ -137,19 +137,6 @@ It’s recommended to use a virtual environment to manage dependencies:
 
 ---
 
-## Example:
-
-#### Input Image :
-
-![alt text](test26_23.jpg)
-
-
-#### Output Image :
-
-![alt text](im1.jpg)
-
----
-
 ## Author and Contact
 
 **Author:** Mohammad Hammad Ahmad 
